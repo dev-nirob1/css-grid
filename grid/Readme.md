@@ -1,0 +1,2 @@
+## CSS - GRID
+- GRID: Css grid is powerful two dimentional layout system in CSS. It allows web developers to create comples and responsive grid-based layouts with rows and columns, providing precise control over the positioning of elements.
